@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class PRODIGY_SD_01 {
+public class TempConverter {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
@@ -39,3 +39,4 @@ public class PRODIGY_SD_01 {
         System.out.println("Kelvin: " + kelvin);
     }
 }
+
